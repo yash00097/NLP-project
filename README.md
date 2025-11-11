@@ -79,13 +79,9 @@ Notes:
 Required Python packages are listed in `requirements.txt`. At minimum this project uses:
 
 - Python 3.8+ (3.9/3.10 recommended)
-- scikit-learn (TF-IDF vectorizer and cosine similarity)
 
 Install via `pip install -r requirements.txt` or install the main dependency directly:
 
-```bash
-pip install scikit-learn
-```
 
 ## How the bot works (short)
 
