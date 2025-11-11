@@ -1,0 +1,3482 @@
+[
+    {
+        "poet_name": "నన్నయ భట్టారకుడు",
+        "type": "ask_biography",
+        "is_answer": true,
+        "doc_index": 0
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 0
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 0
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 0
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 0
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 0
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 0
+    },
+    {
+        "poet_name": "నన్నయ భట్టారకుడు",
+        "type": "ask_titles",
+        "is_answer": true,
+        "doc_index": 7
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 7
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 7
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 7
+    },
+    {
+        "poet_name": "నన్నయ భట్టారకుడు",
+        "type": "ask_famous_works",
+        "is_answer": true,
+        "doc_index": 11
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 11
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 11
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 11
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 11
+    },
+    {
+        "poet_name": "నన్నయ భట్టారకుడు",
+        "type": "ask_era",
+        "is_answer": true,
+        "doc_index": 16
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 16
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 16
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 16
+    },
+    {
+        "poet_name": "నన్నయ భట్టారకుడు",
+        "type": "ask_birth_place",
+        "is_answer": true,
+        "doc_index": 20
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 20
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 20
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 20
+    },
+    {
+        "poet_name": "నన్నయ భట్టారకుడు",
+        "type": "ask_lifespan",
+        "is_answer": true,
+        "doc_index": 24
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 24
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 24
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 24
+    },
+    {
+        "poet_name": "నన్నయ భట్టారకుడు",
+        "type": "ask_poem",
+        "is_answer": true,
+        "doc_index": 28,
+        "genre": "సంస్కృత మంగళాచరణం"
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 28
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 28
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 28
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 28
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 28
+    },
+    {
+        "poet_name": "నన్నయ భట్టారకుడు",
+        "type": "ask_poem",
+        "is_answer": true,
+        "doc_index": 34,
+        "genre": "ప్రకృతి వర్ణన (శరత్కాలం)"
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 34
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 34
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 34
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 34
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 34
+    },
+    {
+        "poet_name": "నన్నయ భట్టారకుడు",
+        "type": "ask_poem",
+        "is_answer": true,
+        "doc_index": 40,
+        "genre": "ప్రారంభ ఆశీర్వచనం"
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 40
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 40
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 40
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 40
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 40
+    },
+    {
+        "poet_name": "నన్నయ భట్టారకుడు",
+        "type": "ask_poem",
+        "is_answer": true,
+        "doc_index": 46,
+        "genre": "ఉపదేశం (సారస్వత గుణం)"
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 46
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 46
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 46
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 46
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 46
+    },
+    {
+        "poet_name": "తిక్కన సోమయాజి",
+        "type": "ask_biography",
+        "is_answer": true,
+        "doc_index": 52
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 52
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 52
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 52
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 52
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 52
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 52
+    },
+    {
+        "poet_name": "తిక్కన సోమయాజి",
+        "type": "ask_titles",
+        "is_answer": true,
+        "doc_index": 59
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 59
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 59
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 59
+    },
+    {
+        "poet_name": "తిక్కన సోమయాజి",
+        "type": "ask_famous_works",
+        "is_answer": true,
+        "doc_index": 63
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 63
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 63
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 63
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 63
+    },
+    {
+        "poet_name": "తిక్కన సోమయాజి",
+        "type": "ask_era",
+        "is_answer": true,
+        "doc_index": 68
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 68
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 68
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 68
+    },
+    {
+        "poet_name": "తిక్కన సోమయాజి",
+        "type": "ask_birth_place",
+        "is_answer": true,
+        "doc_index": 72
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 72
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 72
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 72
+    },
+    {
+        "poet_name": "తిక్కన సోమయాజి",
+        "type": "ask_lifespan",
+        "is_answer": true,
+        "doc_index": 76
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 76
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 76
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 76
+    },
+    {
+        "poet_name": "తిక్కన సోమయాజి",
+        "type": "ask_poem",
+        "is_answer": true,
+        "doc_index": 80,
+        "genre": "పాత్రోద్వేగం (ద్రౌపది దుఃఖం)"
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 80
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 80
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 80
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 80
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 80
+    },
+    {
+        "poet_name": "తిక్కన సోమయాజి",
+        "type": "ask_poem",
+        "is_answer": true,
+        "doc_index": 86,
+        "genre": "భక్తి నివేదన (కృతి అంకితం)"
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 86
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 86
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 86
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 86
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 86
+    },
+    {
+        "poet_name": "తిక్కన సోమయాజి",
+        "type": "ask_poem",
+        "is_answer": true,
+        "doc_index": 92,
+        "genre": "క్షాత్ర ధర్మం"
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 92
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 92
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 92
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 92
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 92
+    },
+    {
+        "poet_name": "తిక్కన సోమయాజి",
+        "type": "ask_poem",
+        "is_answer": true,
+        "doc_index": 98,
+        "genre": "శృంగార రసం (విరాట పర్వం)"
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 98
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 98
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 98
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 98
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 98
+    },
+    {
+        "poet_name": "ఎఱ్ఱాప్రగడ",
+        "type": "ask_biography",
+        "is_answer": true,
+        "doc_index": 104
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 104
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 104
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 104
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 104
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 104
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 104
+    },
+    {
+        "poet_name": "ఎఱ్ఱాప్రగడ",
+        "type": "ask_titles",
+        "is_answer": true,
+        "doc_index": 111
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 111
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 111
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 111
+    },
+    {
+        "poet_name": "ఎఱ్ఱాప్రగడ",
+        "type": "ask_famous_works",
+        "is_answer": true,
+        "doc_index": 115
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 115
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 115
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 115
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 115
+    },
+    {
+        "poet_name": "ఎఱ్ఱాప్రగడ",
+        "type": "ask_era",
+        "is_answer": true,
+        "doc_index": 120
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 120
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 120
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 120
+    },
+    {
+        "poet_name": "ఎఱ్ఱాప్రగడ",
+        "type": "ask_birth_place",
+        "is_answer": true,
+        "doc_index": 124
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 124
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 124
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 124
+    },
+    {
+        "poet_name": "ఎఱ్ఱాప్రగడ",
+        "type": "ask_lifespan",
+        "is_answer": true,
+        "doc_index": 128
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 128
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 128
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 128
+    },
+    {
+        "poet_name": "ఎఱ్ఱాప్రగడ",
+        "type": "ask_poem",
+        "is_answer": true,
+        "doc_index": 132,
+        "genre": "ప్రకృతి వర్ణన (శరత్కాల ప్రభాతం)"
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 132
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 132
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 132
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 132
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 132
+    },
+    {
+        "poet_name": "ఎఱ్ఱాప్రగడ",
+        "type": "ask_poem",
+        "is_answer": true,
+        "doc_index": 138,
+        "genre": "స్వీయ పరిచయం"
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 138
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 138
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 138
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 138
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 138
+    },
+    {
+        "poet_name": "ఎఱ్ఱాప్రగడ",
+        "type": "ask_poem",
+        "is_answer": true,
+        "doc_index": 144,
+        "genre": "భగవత్ స్తుతి (ఉగ్ర రూపం)"
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 144
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 144
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 144
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 144
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 144
+    },
+    {
+        "poet_name": "ఎఱ్ఱాప్రగడ",
+        "type": "ask_poem",
+        "is_answer": true,
+        "doc_index": 150,
+        "genre": "శాంత రసం"
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 150
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 150
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 150
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 150
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 150
+    },
+    {
+        "poet_name": "శ్రీనాథుడు",
+        "type": "ask_biography",
+        "is_answer": true,
+        "doc_index": 156
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 156
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 156
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 156
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 156
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 156
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 156
+    },
+    {
+        "poet_name": "శ్రీనాథుడు",
+        "type": "ask_titles",
+        "is_answer": true,
+        "doc_index": 163
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 163
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 163
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 163
+    },
+    {
+        "poet_name": "శ్రీనాథుడు",
+        "type": "ask_famous_works",
+        "is_answer": true,
+        "doc_index": 167
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 167
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 167
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 167
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 167
+    },
+    {
+        "poet_name": "శ్రీనాథుడు",
+        "type": "ask_era",
+        "is_answer": true,
+        "doc_index": 172
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 172
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 172
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 172
+    },
+    {
+        "poet_name": "శ్రీనాథుడు",
+        "type": "ask_birth_place",
+        "is_answer": true,
+        "doc_index": 176
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 176
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 176
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 176
+    },
+    {
+        "poet_name": "శ్రీనాథుడు",
+        "type": "ask_lifespan",
+        "is_answer": true,
+        "doc_index": 180
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 180
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 180
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 180
+    },
+    {
+        "poet_name": "శ్రీనాథుడు",
+        "type": "ask_poem",
+        "is_answer": true,
+        "doc_index": 184,
+        "genre": "స్వీయ-చరిత్ర (సాహిత్య యాత్ర)"
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 184
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 184
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 184
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 184
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 184
+    },
+    {
+        "poet_name": "శ్రీనాథుడు",
+        "type": "ask_poem",
+        "is_answer": true,
+        "doc_index": 190,
+        "genre": "చాటుపద్యం (కష్టాలలో)"
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 190
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 190
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 190
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 190
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 190
+    },
+    {
+        "poet_name": "శ్రీనాథుడు",
+        "type": "ask_poem",
+        "is_answer": true,
+        "doc_index": 196,
+        "genre": "క్షేత్ర మాహాత్మ్యం (కాశీఖండం)"
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 196
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 196
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 196
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 196
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 196
+    },
+    {
+        "poet_name": "శ్రీనాథుడు",
+        "type": "ask_poem",
+        "is_answer": true,
+        "doc_index": 202,
+        "genre": "తార్కిక వర్ణన (శృంగారం)"
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 202
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 202
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 202
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 202
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 202
+    },
+    {
+        "poet_name": "బమ్మెర పోతన",
+        "type": "ask_biography",
+        "is_answer": true,
+        "doc_index": 208
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 208
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 208
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 208
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 208
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 208
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 208
+    },
+    {
+        "poet_name": "బమ్మెర పోతన",
+        "type": "ask_titles",
+        "is_answer": true,
+        "doc_index": 215
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 215
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 215
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 215
+    },
+    {
+        "poet_name": "బమ్మెర పోతన",
+        "type": "ask_famous_works",
+        "is_answer": true,
+        "doc_index": 219
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 219
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 219
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 219
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 219
+    },
+    {
+        "poet_name": "బమ్మెర పోతన",
+        "type": "ask_era",
+        "is_answer": true,
+        "doc_index": 224
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 224
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 224
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 224
+    },
+    {
+        "poet_name": "బమ్మెర పోతన",
+        "type": "ask_birth_place",
+        "is_answer": true,
+        "doc_index": 228
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 228
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 228
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 228
+    },
+    {
+        "poet_name": "బమ్మెర పోతన",
+        "type": "ask_lifespan",
+        "is_answer": true,
+        "doc_index": 232
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 232
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 232
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 232
+    },
+    {
+        "poet_name": "బమ్మెర పోతన",
+        "type": "ask_poem",
+        "is_answer": true,
+        "doc_index": 236,
+        "genre": "భగవత్ స్తుతి (గ్రంథారంభం)"
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 236
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 236
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 236
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 236
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 236
+    },
+    {
+        "poet_name": "బమ్మెర పోతన",
+        "type": "ask_poem",
+        "is_answer": true,
+        "doc_index": 242,
+        "genre": "భక్తి పారవశ్యం (కృతి అంకితం)"
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 242
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 242
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 242
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 242
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 242
+    },
+    {
+        "poet_name": "బమ్మెర పోతన",
+        "type": "ask_poem",
+        "is_answer": true,
+        "doc_index": 248,
+        "genre": "వర్ణన (గజేంద్ర మోక్షం)"
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 248
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 248
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 248
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 248
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 248
+    },
+    {
+        "poet_name": "బమ్మెర పోతన",
+        "type": "ask_poem",
+        "is_answer": true,
+        "doc_index": 254,
+        "genre": "ప్రహ్లాద స్తుతి (విష్ణువుపై)"
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 254
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 254
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 254
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 254
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 254
+    },
+    {
+        "poet_name": "వేమన యోగి",
+        "type": "ask_biography",
+        "is_answer": true,
+        "doc_index": 260
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 260
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 260
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 260
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 260
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 260
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 260
+    },
+    {
+        "poet_name": "వేమన యోగి",
+        "type": "ask_titles",
+        "is_answer": true,
+        "doc_index": 267
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 267
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 267
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 267
+    },
+    {
+        "poet_name": "వేమన యోగి",
+        "type": "ask_famous_works",
+        "is_answer": true,
+        "doc_index": 271
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 271
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 271
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 271
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 271
+    },
+    {
+        "poet_name": "వేమన యోగి",
+        "type": "ask_era",
+        "is_answer": true,
+        "doc_index": 276
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 276
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 276
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 276
+    },
+    {
+        "poet_name": "వేమన యోగి",
+        "type": "ask_birth_place",
+        "is_answer": true,
+        "doc_index": 280
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 280
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 280
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 280
+    },
+    {
+        "poet_name": "వేమన యోగి",
+        "type": "ask_lifespan",
+        "is_answer": true,
+        "doc_index": 284
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 284
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 284
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 284
+    },
+    {
+        "poet_name": "వేమన యోగి",
+        "type": "ask_poem",
+        "is_answer": true,
+        "doc_index": 288,
+        "genre": "నీతి బోధన"
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 288
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 288
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 288
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 288
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 288
+    },
+    {
+        "poet_name": "వేమన యోగి",
+        "type": "ask_poem",
+        "is_answer": true,
+        "doc_index": 294,
+        "genre": "సాధనా మార్గం"
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 294
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 294
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 294
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 294
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 294
+    },
+    {
+        "poet_name": "వేమన యోగి",
+        "type": "ask_poem",
+        "is_answer": true,
+        "doc_index": 300,
+        "genre": "వ్యక్తిత్వ విమర్శ"
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 300
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 300
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 300
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 300
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 300
+    },
+    {
+        "poet_name": "వేమన యోగి",
+        "type": "ask_poem",
+        "is_answer": true,
+        "doc_index": 306,
+        "genre": "సాంఘిక విమర్శ"
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 306
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 306
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 306
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 306
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 306
+    },
+    {
+        "poet_name": "అన్నమాచార్యులు",
+        "type": "ask_biography",
+        "is_answer": true,
+        "doc_index": 312
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 312
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 312
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 312
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 312
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 312
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 312
+    },
+    {
+        "poet_name": "అన్నమాచార్యులు",
+        "type": "ask_titles",
+        "is_answer": true,
+        "doc_index": 319
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 319
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 319
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 319
+    },
+    {
+        "poet_name": "అన్నమాచార్యులు",
+        "type": "ask_famous_works",
+        "is_answer": true,
+        "doc_index": 323
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 323
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 323
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 323
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 323
+    },
+    {
+        "poet_name": "అన్నమాచార్యులు",
+        "type": "ask_era",
+        "is_answer": true,
+        "doc_index": 328
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 328
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 328
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 328
+    },
+    {
+        "poet_name": "అన్నమాచార్యులు",
+        "type": "ask_birth_place",
+        "is_answer": true,
+        "doc_index": 332
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 332
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 332
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 332
+    },
+    {
+        "poet_name": "అన్నమాచార్యులు",
+        "type": "ask_lifespan",
+        "is_answer": true,
+        "doc_index": 336
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 336
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 336
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 336
+    },
+    {
+        "poet_name": "అన్నమాచార్యులు",
+        "type": "ask_poem",
+        "is_answer": true,
+        "doc_index": 340,
+        "genre": "తాత్విక కీర్తన (పల్లవి, చరణం)"
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 340
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 340
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 340
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 340
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 340
+    },
+    {
+        "poet_name": "అన్నమాచార్యులు",
+        "type": "ask_poem",
+        "is_answer": true,
+        "doc_index": 346,
+        "genre": "లాలి కీర్తన (జోలపాట)"
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 346
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 346
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 346
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 346
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 346
+    },
+    {
+        "poet_name": "అన్నమాచార్యులు",
+        "type": "ask_poem",
+        "is_answer": true,
+        "doc_index": 352,
+        "genre": "దేవతా స్తుతి (విష్ణు పాదము)"
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 352
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 352
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 352
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 352
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 352
+    },
+    {
+        "poet_name": "అన్నమాచార్యులు",
+        "type": "ask_poem",
+        "is_answer": true,
+        "doc_index": 358,
+        "genre": "శృంగార కీర్తన"
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 358
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 358
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 358
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 358
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 358
+    },
+    {
+        "poet_name": "అల్లసాని పెద్దన",
+        "type": "ask_biography",
+        "is_answer": true,
+        "doc_index": 364
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 364
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 364
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 364
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 364
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 364
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 364
+    },
+    {
+        "poet_name": "అల్లసాని పెద్దన",
+        "type": "ask_titles",
+        "is_answer": true,
+        "doc_index": 371
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 371
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 371
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 371
+    },
+    {
+        "poet_name": "అల్లసాని పెద్దన",
+        "type": "ask_famous_works",
+        "is_answer": true,
+        "doc_index": 375
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 375
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 375
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 375
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 375
+    },
+    {
+        "poet_name": "అల్లసాని పెద్దన",
+        "type": "ask_era",
+        "is_answer": true,
+        "doc_index": 380
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 380
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 380
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 380
+    },
+    {
+        "poet_name": "అల్లసాని పెద్దన",
+        "type": "ask_birth_place",
+        "is_answer": true,
+        "doc_index": 384
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 384
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 384
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 384
+    },
+    {
+        "poet_name": "అల్లసాని పెద్దన",
+        "type": "ask_lifespan",
+        "is_answer": true,
+        "doc_index": 388
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 388
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 388
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 388
+    },
+    {
+        "poet_name": "అల్లసాని పెద్దన",
+        "type": "ask_poem",
+        "is_answer": true,
+        "doc_index": 392,
+        "genre": "మంగళాచరణం (గణపతి స్తుతి)"
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 392
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 392
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 392
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 392
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 392
+    },
+    {
+        "poet_name": "అల్లసాని పెద్దన",
+        "type": "ask_poem",
+        "is_answer": true,
+        "doc_index": 398,
+        "genre": "కృతి అంకితం (కృష్ణదేవరాయల ప్రశంస)"
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 398
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 398
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 398
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 398
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 398
+    },
+    {
+        "poet_name": "అల్లసాని పెద్దన",
+        "type": "ask_poem",
+        "is_answer": true,
+        "doc_index": 404,
+        "genre": "నాయిక వర్ణన (స్వరోచిని చూచి)"
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 404
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 404
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 404
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 404
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 404
+    },
+    {
+        "poet_name": "అల్లసాని పెద్దన",
+        "type": "ask_poem",
+        "is_answer": true,
+        "doc_index": 410,
+        "genre": "ప్రవరుని తలపులు"
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 410
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 410
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 410
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 410
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 410
+    },
+    {
+        "poet_name": "శ్రీ కృష్ణదేవరాయలు",
+        "type": "ask_biography",
+        "is_answer": true,
+        "doc_index": 416
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 416
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 416
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 416
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 416
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 416
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 416
+    },
+    {
+        "poet_name": "శ్రీ కృష్ణదేవరాయలు",
+        "type": "ask_titles",
+        "is_answer": true,
+        "doc_index": 423
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 423
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 423
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 423
+    },
+    {
+        "poet_name": "శ్రీ కృష్ణదేవరాయలు",
+        "type": "ask_famous_works",
+        "is_answer": true,
+        "doc_index": 427
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 427
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 427
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 427
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 427
+    },
+    {
+        "poet_name": "శ్రీ కృష్ణదేవరాయలు",
+        "type": "ask_era",
+        "is_answer": true,
+        "doc_index": 432
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 432
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 432
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 432
+    },
+    {
+        "poet_name": "శ్రీ కృష్ణదేవరాయలు",
+        "type": "ask_birth_place",
+        "is_answer": true,
+        "doc_index": 436
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 436
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 436
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 436
+    },
+    {
+        "poet_name": "శ్రీ కృష్ణదేవరాయలు",
+        "type": "ask_lifespan",
+        "is_answer": true,
+        "doc_index": 440
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 440
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 440
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 440
+    },
+    {
+        "poet_name": "శ్రీ కృష్ణదేవరాయలు",
+        "type": "ask_poem",
+        "is_answer": true,
+        "doc_index": 444,
+        "genre": "కృతి అంకితం (విష్ణుచిత్తునికి)"
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 444
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 444
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 444
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 444
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 444
+    },
+    {
+        "poet_name": "శ్రీ కృష్ణదేవరాయలు",
+        "type": "ask_poem",
+        "is_answer": true,
+        "doc_index": 450,
+        "genre": "భక్తి తాత్వికం"
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 450
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 450
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 450
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 450
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 450
+    },
+    {
+        "poet_name": "శ్రీ కృష్ణదేవరాయలు",
+        "type": "ask_poem",
+        "is_answer": true,
+        "doc_index": 456,
+        "genre": "కావ్య నామ వివరణ"
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 456
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 456
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 456
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 456
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 456
+    },
+    {
+        "poet_name": "శ్రీ కృష్ణదేవరాయలు",
+        "type": "ask_poem",
+        "is_answer": true,
+        "doc_index": 462,
+        "genre": "గోదాదేవి వర్ణన"
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 462
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 462
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 462
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 462
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 462
+    },
+    {
+        "poet_name": "తెనాలి రామకృష్ణుడు",
+        "type": "ask_biography",
+        "is_answer": true,
+        "doc_index": 468
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 468
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 468
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 468
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 468
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 468
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 468
+    },
+    {
+        "poet_name": "తెనాలి రామకృష్ణుడు",
+        "type": "ask_titles",
+        "is_answer": true,
+        "doc_index": 475
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 475
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 475
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 475
+    },
+    {
+        "poet_name": "తెనాలి రామకృష్ణుడు",
+        "type": "ask_famous_works",
+        "is_answer": true,
+        "doc_index": 479
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 479
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 479
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 479
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 479
+    },
+    {
+        "poet_name": "తెనాలి రామకృష్ణుడు",
+        "type": "ask_era",
+        "is_answer": true,
+        "doc_index": 484
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 484
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 484
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 484
+    },
+    {
+        "poet_name": "తెనాలి రామకృష్ణుడు",
+        "type": "ask_birth_place",
+        "is_answer": true,
+        "doc_index": 488
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 488
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 488
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 488
+    },
+    {
+        "poet_name": "తెనాలి రామకృష్ణుడు",
+        "type": "ask_lifespan",
+        "is_answer": true,
+        "doc_index": 492
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 492
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 492
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 492
+    },
+    {
+        "poet_name": "తెనాలి రామకృష్ణుడు",
+        "type": "ask_poem",
+        "is_answer": true,
+        "doc_index": 496,
+        "genre": "సమస్యా పూరణం (రాజసభ)"
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 496
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 496
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 496
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 496
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 496
+    },
+    {
+        "poet_name": "తెనాలి రామకృష్ణుడు",
+        "type": "ask_poem",
+        "is_answer": true,
+        "doc_index": 502,
+        "genre": "సమస్యా పూరణం (హాస్యం)"
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 502
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 502
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 502
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 502
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 502
+    },
+    {
+        "poet_name": "తెనాలి రామకృష్ణుడు",
+        "type": "ask_poem",
+        "is_answer": true,
+        "doc_index": 508,
+        "genre": "కవి విమర్శ (భట్టుమూర్తిపై)"
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 508
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 508
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 508
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 508
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 508
+    },
+    {
+        "poet_name": "తెనాలి రామకృష్ణుడు",
+        "type": "ask_poem",
+        "is_answer": true,
+        "doc_index": 514,
+        "genre": "పాండురంగ మాహాత్మ్యం"
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 514
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 514
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 514
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 514
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 514
+    },
+    {
+        "poet_name": "కాంచర్ల గోపన్న",
+        "type": "ask_biography",
+        "is_answer": true,
+        "doc_index": 520
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 520
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 520
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 520
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 520
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 520
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 520
+    },
+    {
+        "poet_name": "కాంచర్ల గోపన్న",
+        "type": "ask_titles",
+        "is_answer": true,
+        "doc_index": 527
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 527
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 527
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 527
+    },
+    {
+        "poet_name": "కాంచర్ల గోపన్న",
+        "type": "ask_famous_works",
+        "is_answer": true,
+        "doc_index": 531
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 531
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 531
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 531
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 531
+    },
+    {
+        "poet_name": "కాంచర్ల గోపన్న",
+        "type": "ask_era",
+        "is_answer": true,
+        "doc_index": 536
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 536
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 536
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 536
+    },
+    {
+        "poet_name": "కాంచర్ల గోపన్న",
+        "type": "ask_birth_place",
+        "is_answer": true,
+        "doc_index": 540
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 540
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 540
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 540
+    },
+    {
+        "poet_name": "కాంచర్ల గోపన్న",
+        "type": "ask_lifespan",
+        "is_answer": true,
+        "doc_index": 544
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 544
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 544
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 544
+    },
+    {
+        "poet_name": "కాంచర్ల గోపన్న",
+        "type": "ask_poem",
+        "is_answer": true,
+        "doc_index": 548,
+        "genre": "శతక మకుటం (దైవ స్తుతి)"
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 548
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 548
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 548
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 548
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 548
+    },
+    {
+        "poet_name": "కాంచర్ల గోపన్న",
+        "type": "ask_poem",
+        "is_answer": true,
+        "doc_index": 554,
+        "genre": "రామదాసు కీర్తన (పల్లవి, చరణం)"
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 554
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 554
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 554
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 554
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 554
+    },
+    {
+        "poet_name": "కాంచర్ల గోపన్న",
+        "type": "ask_poem",
+        "is_answer": true,
+        "doc_index": 560,
+        "genre": "స్వీయ నివేదన"
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 560
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 560
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 560
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 560
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 560
+    },
+    {
+        "poet_name": "కాంచర్ల గోపన్న",
+        "type": "ask_poem",
+        "is_answer": true,
+        "doc_index": 566,
+        "genre": "విన్నప కీర్తన"
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 566
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 566
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 566
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 566
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 566
+    },
+    {
+        "poet_name": "కందుకూరి వీరేశలింగం",
+        "type": "ask_biography",
+        "is_answer": true,
+        "doc_index": 572
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 572
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 572
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 572
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 572
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 572
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 572
+    },
+    {
+        "poet_name": "కందుకూరి వీరేశలింగం",
+        "type": "ask_titles",
+        "is_answer": true,
+        "doc_index": 579
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 579
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 579
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 579
+    },
+    {
+        "poet_name": "కందుకూరి వీరేశలింగం",
+        "type": "ask_famous_works",
+        "is_answer": true,
+        "doc_index": 583
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 583
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 583
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 583
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 583
+    },
+    {
+        "poet_name": "కందుకూరి వీరేశలింగం",
+        "type": "ask_era",
+        "is_answer": true,
+        "doc_index": 588
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 588
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 588
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 588
+    },
+    {
+        "poet_name": "కందుకూరి వీరేశలింగం",
+        "type": "ask_birth_place",
+        "is_answer": true,
+        "doc_index": 592
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 592
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 592
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 592
+    },
+    {
+        "poet_name": "కందుకూరి వీరేశలింగం",
+        "type": "ask_lifespan",
+        "is_answer": true,
+        "doc_index": 596
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 596
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 596
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 596
+    },
+    {
+        "poet_name": "కందుకూరి వీరేశలింగం",
+        "type": "ask_poem",
+        "is_answer": true,
+        "doc_index": 600,
+        "genre": "సాంఘిక సంస్కరణ"
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 600
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 600
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 600
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 600
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 600
+    },
+    {
+        "poet_name": "కందుకూరి వీరేశలింగం",
+        "type": "ask_poem",
+        "is_answer": true,
+        "doc_index": 606,
+        "genre": "దేశాభిమానం"
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 606
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 606
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 606
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 606
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 606
+    },
+    {
+        "poet_name": "కందుకూరి వీరేశలింగం",
+        "type": "ask_poem",
+        "is_answer": true,
+        "doc_index": 612,
+        "genre": "నాటక రచనా ధర్మం"
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 612
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 612
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 612
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 612
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 612
+    },
+    {
+        "poet_name": "కందుకూరి వీరేశలింగం",
+        "type": "ask_poem",
+        "is_answer": true,
+        "doc_index": 618,
+        "genre": "నీతి బోధ"
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 618
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 618
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 618
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 618
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 618
+    },
+    {
+        "poet_name": "గురజాడ అప్పారావు",
+        "type": "ask_biography",
+        "is_answer": true,
+        "doc_index": 624
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 624
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 624
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 624
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 624
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 624
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 624
+    },
+    {
+        "poet_name": "గురజాడ అప్పారావు",
+        "type": "ask_titles",
+        "is_answer": true,
+        "doc_index": 631
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 631
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 631
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 631
+    },
+    {
+        "poet_name": "గురజాడ అప్పారావు",
+        "type": "ask_famous_works",
+        "is_answer": true,
+        "doc_index": 635
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 635
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 635
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 635
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 635
+    },
+    {
+        "poet_name": "గురజాడ అప్పారావు",
+        "type": "ask_era",
+        "is_answer": true,
+        "doc_index": 640
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 640
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 640
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 640
+    },
+    {
+        "poet_name": "గురజాడ అప్పారావు",
+        "type": "ask_birth_place",
+        "is_answer": true,
+        "doc_index": 644
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 644
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 644
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 644
+    },
+    {
+        "poet_name": "గురజాడ అప్పారావు",
+        "type": "ask_lifespan",
+        "is_answer": true,
+        "doc_index": 648
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 648
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 648
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 648
+    },
+    {
+        "poet_name": "గురజాడ అప్పారావు",
+        "type": "ask_poem",
+        "is_answer": true,
+        "doc_index": 652,
+        "genre": "దేశభక్తి గేయం (ముత్యాల సరం)"
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 652
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 652
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 652
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 652
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 652
+    },
+    {
+        "poet_name": "గురజాడ అప్పారావు",
+        "type": "ask_poem",
+        "is_answer": true,
+        "doc_index": 658,
+        "genre": "సాంఘిక సంస్కరణ (ముత్యాల సరం)"
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 658
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 658
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 658
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 658
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 658
+    },
+    {
+        "poet_name": "గురజాడ అప్పారావు",
+        "type": "ask_poem",
+        "is_answer": true,
+        "doc_index": 664,
+        "genre": "సాంఘిక విమర్శ (కన్యాశుల్కం)"
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 664
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 664
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 664
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 664
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 664
+    },
+    {
+        "poet_name": "గురజాడ అప్పారావు",
+        "type": "ask_poem",
+        "is_answer": true,
+        "doc_index": 670,
+        "genre": "విశ్వాస గీతం"
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 670
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 670
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 670
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 670
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 670
+    },
+    {
+        "poet_name": "శ్రీశ్రీ",
+        "type": "ask_biography",
+        "is_answer": true,
+        "doc_index": 676
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 676
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 676
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 676
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 676
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 676
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 676
+    },
+    {
+        "poet_name": "శ్రీశ్రీ",
+        "type": "ask_titles",
+        "is_answer": true,
+        "doc_index": 683
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 683
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 683
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 683
+    },
+    {
+        "poet_name": "శ్రీశ్రీ",
+        "type": "ask_famous_works",
+        "is_answer": true,
+        "doc_index": 687
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 687
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 687
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 687
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 687
+    },
+    {
+        "poet_name": "శ్రీశ్రీ",
+        "type": "ask_era",
+        "is_answer": true,
+        "doc_index": 692
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 692
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 692
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 692
+    },
+    {
+        "poet_name": "శ్రీశ్రీ",
+        "type": "ask_birth_place",
+        "is_answer": true,
+        "doc_index": 696
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 696
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 696
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 696
+    },
+    {
+        "poet_name": "శ్రీశ్రీ",
+        "type": "ask_lifespan",
+        "is_answer": true,
+        "doc_index": 700
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 700
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 700
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 700
+    },
+    {
+        "poet_name": "శ్రీశ్రీ",
+        "type": "ask_poem",
+        "is_answer": true,
+        "doc_index": 704,
+        "genre": "విప్లవ కవిత్వం (మహాప్రస్థానం)"
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 704
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 704
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 704
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 704
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 704
+    },
+    {
+        "poet_name": "శ్రీశ్రీ",
+        "type": "ask_poem",
+        "is_answer": true,
+        "doc_index": 710,
+        "genre": "అభ్యుదయ గీతం (మరో ప్రపంచం)"
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 710
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 710
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 710
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 710
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 710
+    },
+    {
+        "poet_name": "శ్రీశ్రీ",
+        "type": "ask_poem",
+        "is_answer": true,
+        "doc_index": 716,
+        "genre": "కవితా ధర్మం"
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 716
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 716
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 716
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 716
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 716
+    },
+    {
+        "poet_name": "శ్రీశ్రీ",
+        "type": "ask_poem",
+        "is_answer": true,
+        "doc_index": 722,
+        "genre": "శోకం (విశ్వ మానవుని శోకం)"
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 722
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 722
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 722
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 722
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 722
+    },
+    {
+        "poet_name": "సి నారాయణ రెడ్డి",
+        "type": "ask_biography",
+        "is_answer": true,
+        "doc_index": 728
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 728
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 728
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 728
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 728
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 728
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 728
+    },
+    {
+        "poet_name": "సి నారాయణ రెడ్డి",
+        "type": "ask_titles",
+        "is_answer": true,
+        "doc_index": 735
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 735
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 735
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 735
+    },
+    {
+        "poet_name": "సి నారాయణ రెడ్డి",
+        "type": "ask_famous_works",
+        "is_answer": true,
+        "doc_index": 739
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 739
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 739
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 739
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 739
+    },
+    {
+        "poet_name": "సి నారాయణ రెడ్డి",
+        "type": "ask_era",
+        "is_answer": true,
+        "doc_index": 744
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 744
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 744
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 744
+    },
+    {
+        "poet_name": "సి నారాయణ రెడ్డి",
+        "type": "ask_birth_place",
+        "is_answer": true,
+        "doc_index": 748
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 748
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 748
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 748
+    },
+    {
+        "poet_name": "సి నారాయణ రెడ్డి",
+        "type": "ask_lifespan",
+        "is_answer": true,
+        "doc_index": 752
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 752
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 752
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 752
+    },
+    {
+        "poet_name": "సి నారాయణ రెడ్డి",
+        "type": "ask_poem",
+        "is_answer": true,
+        "doc_index": 756,
+        "genre": "తాత్విక కావ్యం (మానవ జననం)"
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 756
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 756
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 756
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 756
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 756
+    },
+    {
+        "poet_name": "సి నారాయణ రెడ్డి",
+        "type": "ask_poem",
+        "is_answer": true,
+        "doc_index": 762,
+        "genre": "జీవిత సత్యం"
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 762
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 762
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 762
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 762
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 762
+    },
+    {
+        "poet_name": "సి నారాయణ రెడ్డి",
+        "type": "ask_poem",
+        "is_answer": true,
+        "doc_index": 768,
+        "genre": "సాహిత్య తత్త్వం"
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 768
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 768
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 768
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 768
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 768
+    },
+    {
+        "poet_name": "సి నారాయణ రెడ్డి",
+        "type": "ask_poem",
+        "is_answer": true,
+        "doc_index": 774,
+        "genre": "ప్రకృతి ప్రేమ"
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 774
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 774
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 774
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 774
+    },
+    {
+        "is_answer": false,
+        "points_to_index": 774
+    }
+]

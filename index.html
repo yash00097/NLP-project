@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NSGA-II Transmission Line Dashboard</title>
+    
+    <!-- 1. Link to your local CSS file -->
+    <link rel="stylesheet" href="style.css">
+
+    <!-- 2. Link to Chart.js (External Library) -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+
+    <div class="dashboard-container">
+        
+        <header class="dashboard-header">
+            <h1>NSGA-II Transmission Line Design Dashboard</h1>
+            <p>Enter your design constraints and run the optimization to find the Pareto-optimal trade-offs.</p>
+        </header>
+
+        <!-- =================================== -->
+        <!-- LEFT COLUMN: INPUTS & CONTROLS      -->
+        <!-- =================================== -->
+        <aside class="sidebar">
+            <div class="sidebar-section">
+                <h2>1. Input Parameters</h2>
+                <form id="input-form">
+                    
+                    <!-- Power Transmitted (P) -->
+                    <div class="form-group">
+                        <label for="power-input">Power Transmitted (P) (MW)</label>
+                        <input type="number" id="power-input" class="input-field" value="100">
+                    </div>
+                    
+                    <!-- Applied Voltage (V) -->
+                    <div class="form-group">
+                        <label for="voltage-input">Applied Line Voltage (V) (kV)</label>
+                        <input type="number" id="voltage-input" class="input-field" value="220">
+                    </div>
+
+                    <!-- Line Length (z) -->
+                    <div class="form-group">
+                        <label for="length-input">Line Length (z) (km)</label>
+                        <input type="number" id="length-input" class="input-field" value="50">
+                    </div>
+
+                    <!-- Other Constants -->
+                    <div class="form-group-grid">
+                        <div class="form-group">
+                            <label for="frequency">Frequency (Hz)</label>
+                            <input type="number" id="frequency" class="input-field-sm" value="50">
+                        </div>
+                        <div class="form-group">
+                            <label for="power-factor">Cos φ</label>
+                            <input type="number" id="power-factor" class="input-field-sm" value="0.8" step="0.01">
+                        </div>
+                        <div class="form-group">
+                            <label for="resistivity">Resistivity (ρ)</label>
+                            <input type="text" id="resistivity" class="input-field-sm" value="2.82e-8">
+                        </div>
+                        <div class="form-group">
+                            <label for="air-breakdown">Air Breakdown (g₀)</label>
+                            <input type="number" id="air-breakdown" class="input-field-sm" value="21.2">
+                        </div>
+                    </div>
+                </form>
+            </div>
+            
+            <div class="sidebar-section">
+                <h2>2. Algorithm Settings</h2>
+                <form id="algorithm-form">
+                    <div class="form-group-grid">
+                        <div class="form-group">
+                            <label for="population-size">Population</label>
+                            <input type="number" id="population-size" class="input-field-sm" value="100" step="10">
+                        </div>
+                        <div class="form-group">
+                            <label for="generations">Generations</label>
+                            <input type="number" id="generations" class="input-field-sm" value="200" step="10">
+                        </div>
+                    </div>
+                    <p class="scenario-note">
+                        Warning: High values may freeze your browser.
+                    </p>
+                </form>
+            </div>
+
+            <div class="sidebar-section">
+                <h2>3. Run Analysis</h2>
+                <button id="runButton" type="button" class="run-button">
+                    Run REAL Optimization
+                </button>
+            </div>
+        </aside>
+
+        <!-- =================================== -->
+        <!-- RIGHT COLUMN: RESULTS & CHART       -->
+        <!-- =================================== -->
+        <main class="main-content">
+            <h2>4. Optimization Results</h2>
+            
+            <div id="loadingSpinner" class="message-overlay hidden">
+                <div class->
+                    <div class="spinner"></div>
+                    <p>Calculating... This may take a minute.</p>
+                    <p class="scenario-note" id="progress-text"></p>
+                </div>
+            </div>
+
+            <div id="initialMessage" class="message-overlay">
+                <div>
+                    <p>Set your parameters and click "Run REAL Optimization" to generate the Pareto Front.</p>
+                </div>
+            </div>
+
+            <div id="resultsContent" class="hidden">
+                <div class="chart-header">
+                    <h3>Pareto Front Results</h3>
+                    <p>Found <span id="solution-count"></span> optimal trade-offs. Click a point to see details.</p>
+                </div>
+                
+                <div class="axis-selectors">
+                    <div>
+                        <label for="xAxisSelect">X-Axis</label>
+                        <select id="xAxisSelect">
+                            <option value="f5">f5: Conductor Volume (Cost)</option>
+                            <option value="f1">f1: Corona Loss</option>
+                            <option value="f2">f2: Efficiency (%)</option>
+                            <option value="f3">f3: Voltage Drop</option>
+                            <option value="f4">f4: Resistive Loss</option>
+                        </select>
+                    </div>
+                    <div>
+                        <label for="yAxisSelect">Y-Axis</label>
+                        <select id="yAxisSelect">
+                            <option value="f2">f2: Efficiency (%)</option>
+                            <option value="f1">f1: Corona Loss</option>
+                            <option value="f3">f3: Voltage Drop</option>
+                            <option value="f4">f4: Resistive Loss</option>
+                            <option value="f5">f5: Conductor Volume (Cost)</option>
+                        </select>
+                    </div>
+                </div>
+
+                <div class="chart-container">
+                    <canvas id="paretoChart"></canvas>
+                </div>
+
+                <div class="details-container">
+                    <h3>Selected Solution Details</h3>
+                    <div id="solutionDetails">
+                        <p>Click a point on the chart to inspect its properties.</p>
+                    </div>
+                </div>
+            </div>
+
+        </main>
+    </div>
+
+    <!-- 3. Link to your local JavaScript file -->
+    <script src="script.js"></script>
+</body>
+</html>
