@@ -116,18 +116,11 @@ That creates/overwrites `knowledge_base_documents.txt` and `knowledge_base_metad
 
 ## Troubleshooting
 
-- If importing `sklearn` fails, ensure you installed the packages into the active virtual environment. Example:
-
-```bash
-source .venv/bin/activate
-pip install -r requirements.txt
-```
-
 - If the chatbot prints a data load error, check the JSON file encoding (must be UTF-8) and that `Final_Dataset_Generated.json` is valid JSON.
 
 - If retrieval answers are poor, try increasing the number of n-grams in `TfidfVectorizer` or cleaning the dataset (remove noisy lines) and regenerate KB files.
 
-## Next steps / Suggestions
+## Future Scope
 
 - Add a `requirements.txt` (included) and optionally a `pyproject.toml` or `venv` instructions for CI.
 - Add a lightweight web UI (Flask/FastAPI) to serve the bot via REST and use `index.html` as a starting point.
@@ -135,9 +128,3 @@ pip install -r requirements.txt
 
 ---
 
-If you want, I can:
-
-1. Add a `requirements.txt` (I will add one if it's missing).
-2. Update this README with any additional environment constraints you prefer (Docker, specific Python minor version, etc.).
-
-Tell me if you want me to write a `requirements.txt` now and commit it to the repo.
