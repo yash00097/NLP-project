@@ -60,8 +60,6 @@ python3 preprocessing_code.py
 
 This will read `raw_dataset.json` and write `Final_Dataset_Generated.json` (as configured at the bottom of the preprocessing script).
 
-Notes:
-- The preprocessing script expects the raw records to contain the field `poet_data_paragraph` and optional `poems_raw`. The script parses text using regex and writes a structured list of poets (see the script comments for details).
 
 ## Files and purpose
 
